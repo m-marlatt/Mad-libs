@@ -15,6 +15,7 @@
 		BA164EA923EE3F9A00D4E902 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA164EA723EE3F9A00D4E902 /* LaunchScreen.storyboard */; };
 		BA164EB423EE3F9A00D4E902 /* Mad_libsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA164EB323EE3F9A00D4E902 /* Mad_libsTests.swift */; };
 		BA164EBF23EE3F9A00D4E902 /* Mad_libsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA164EBE23EE3F9A00D4E902 /* Mad_libsUITests.swift */; };
+		BA52408C23EF4F9300A6A49F /* Red Button.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA52408B23EF4F9300A6A49F /* Red Button.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BA164EBA23EE3F9A00D4E902 /* Mad libsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mad libsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA164EBE23EE3F9A00D4E902 /* Mad_libsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mad_libsUITests.swift; sourceTree = "<group>"; };
 		BA164EC023EE3F9A00D4E902 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA52408B23EF4F9300A6A49F /* Red Button.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Red Button.jpg"; path = "../../../Downloads/Red Button.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				BA164EA023EE3F9800D4E902 /* ViewController.swift */,
 				BA164EA223EE3F9800D4E902 /* Main.storyboard */,
 				BA164EA523EE3F9A00D4E902 /* Assets.xcassets */,
+				BA52408B23EF4F9300A6A49F /* Red Button.jpg */,
 				BA164EA723EE3F9A00D4E902 /* LaunchScreen.storyboard */,
 				BA164EAA23EE3F9A00D4E902 /* Info.plist */,
 			);
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA52408C23EF4F9300A6A49F /* Red Button.jpg in Resources */,
 				BA164EA923EE3F9A00D4E902 /* LaunchScreen.storyboard in Resources */,
 				BA164EA623EE3F9A00D4E902 /* Assets.xcassets in Resources */,
 				BA164EA423EE3F9800D4E902 /* Main.storyboard in Resources */,
